@@ -50,3 +50,8 @@ Let's connect and build something great together! 🤝
 <a href="https://aws.amazon.com/" title="AWS"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="40" height="40"></a>
 </p>
 
+### My Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artemplv&hide=CSS&layout=compact&theme=vision-friendly-dark&bg_color=354f52)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=artemplv&theme=dark&background=354f52)](https://git.io/streak-stats)
