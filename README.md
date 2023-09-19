@@ -52,6 +52,7 @@ Let's connect and build something great together! 🤝
 
 ### My Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artemplv&hide=CSS&layout=compact&theme=vision-friendly-dark&bg_color=354f52)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=artemplv&theme=dark&background=354f52)](https://git.io/streak-stats)
+<p>
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=artemplv&theme=dark&background=354f52" alt="Streak stats"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artemplv&hide=CSS&layout=compact&theme=vision-friendly-dark&bg_color=354f52" alt="Top languages stats"></a>
+</p>
