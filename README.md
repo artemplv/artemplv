@@ -15,7 +15,7 @@ I'm a software developer with a foundation in computer science.
 
 - 🚀 My journey began in high school when I discovered my love for programming and learned the C language.
 - 🤓 While pursuing my Bachelor's degree in Moscow, Russia, I dived into web development, even freelancing on the side.
-- 👨‍💻 After graduation, I worked as a full stack web developer at a Californian startup, mastering React, Express.js, SQL, and more.
+- 👨‍💻 After graduation, I worked as a full stack web developer at a Californian startup, mastering React.js, Express.js, SQL, and more.
 - 🌍 Remote work allowed me to travel Europe and Asia.
 - 🎯 I thrive on challenges, which led to my relocation to the U.S. in 2023.
 - 🌱 Besides coding, I enjoy skateboarding, traveling, and having meditative tea ceremonies.
