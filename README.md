@@ -11,10 +11,9 @@
 I'm a software developer with a foundation in computer science.
 
 - 🚀 My journey began in high school when I discovered my love for programming and learned the C language.
-- 🤓 While pursuing my Bachelor's degree in Moscow, Russia, I dived into web development, even freelancing on the side.
-- 👨‍💻 After graduation, I worked as a full stack web developer at a Californian startup, mastering React, Express.js, SQL, and more.
+- 🤓 While pursuing my Bachelor's degree, I dived into web development, even freelancing on the side.
+- 👨‍💻 After graduation, I worked as a full stack software developer at a startup, mastering React, Express.js, SQL, and more.
 - 🌍 Remote work allowed me to travel Europe and Asia.
-- 🎯 I thrive on challenges, which led to my relocation to the U.S. in 2023.
 - 🌱 Besides coding, I enjoy skateboarding, traveling, and having meditative tea ceremonies.
 - 📫 How to reach me:&nbsp; <a href="https://www.linkedin.com/in/artemplv"><img align="top" src="https://img.shields.io/badge/-artemplv-0A66C2?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"></a> <a href="mailto:dev.artemplv@gmail.com"><img align="top" src="https://img.shields.io/badge/-dev.artemplv@gmail.com-blue?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9ImZlYXRoZXIgZmVhdGhlci1tYWlsIj48cGF0aCBkPSJNNCA0aDE2YzEuMSAwIDIgLjkgMiAydjEyYzAgMS4xLS45IDItMiAySDRjLTEuMSAwLTItLjktMi0yVjZjMC0xLjEuOS0yIDItMnoiPjwvcGF0aD48cG9seWxpbmUgcG9pbnRzPSIyMiw2IDEyLDEzIDIsNiI+PC9wb2x5bGluZT48L3N2Zz4=" alt="Email Badge"></a> <a href="https://t.me/artemplv"><img align="top" src="https://img.shields.io/badge/-artemplv-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
 
