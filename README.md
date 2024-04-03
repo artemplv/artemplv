@@ -18,7 +18,6 @@ I'm a software developer with a foundation in computer science.
 - 📫 How to reach me:&nbsp; <a href="https://www.linkedin.com/in/artemplv"><img align="top" src="https://img.shields.io/badge/-artemplv-0A66C2?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"></a> <a href="mailto:dev.artemplv@gmail.com"><img align="top" src="https://img.shields.io/badge/-dev.artemplv@gmail.com-blue?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9ImZlYXRoZXIgZmVhdGhlci1tYWlsIj48cGF0aCBkPSJNNCA0aDE2YzEuMSAwIDIgLjkgMiAydjEyYzAgMS4xLS45IDItMiAySDRjLTEuMSAwLTItLjktMi0yVjZjMC0xLjEuOS0yIDItMnoiPjwvcGF0aD48cG9seWxpbmUgcG9pbnRzPSIyMiw2IDEyLDEzIDIsNiI+PC9wb2x5bGluZT48L3N2Zz4=" alt="Email Badge"></a> <a href="https://t.me/artemplv"><img align="top" src="https://img.shields.io/badge/-artemplv-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
 
 I'm excited about the potential of software to make a real impact, and I'm always eager to learn and collaborate.  
-Let's connect and build something great together! 🤝
 
 ### Tech Stack:
 
